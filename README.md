@@ -68,13 +68,15 @@ Also working with: Cloudinary • JWT • Chart.js • EJS
 
 🌟 Featured Project
 
-<div align="center">
+<div >
 🔄 SkillSwap
 A web project built with the MERN ecosystem.
 <p>
   <a href="https://github.com/rinsha2387/SkillSwap">
     <img src="https://img.shields.io/badge/📂%20Source%20Code-View%20on%20GitHub-7C3AED?style=for-the-badge" alt="Source Code"/>
   </a>
+ <p/>
+  <p>
   <a href="https://skilltrade.store/auth/login">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Project-22D3EE?style=for-the-badge" alt="Live Demo"/>
   </a>
