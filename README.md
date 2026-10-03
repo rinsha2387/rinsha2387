@@ -4,8 +4,6 @@
 MERN Stack Developer • AI Explorer • Full-Stack Builder
 <p>
   <img src="https://img.shields.io/badge/MERN-Stack-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/AI-Explorer-22D3EE?style=for-the-badge&logo=openai&logoColor=white" alt="AI Explorer"/>
-  <img src="https://img.shields.io/badge/Location-Kerala-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Kerala"/>
 </p>
 
 <p>
