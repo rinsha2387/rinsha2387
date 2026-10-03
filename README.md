@@ -11,19 +11,20 @@ About Me
 📚 Always learning and improving my development skills.
 💻 Building with React, Node.js, Express.js & MongoDB.
 🚀 Turning ideas into real-world projects.
-Current Focus
-- AI
-- MERN Stack
-- Full-Stack Development
+
 Tech Stack
-Languages: JavaScript, HTML, CSS, TypeScript
-Frameworks & Libraries: React, Node.js, Express.js, Tailwind CSS, Bootstrap, Chart.js, EJS
-Database: MongoDB
-DevOps & Tools: AWS, Vercel, Cloudinary, Vite, Git, GitHub, Postman, JWT, NPM
-Featured Project
+Languages: 
+    JavaScript, HTML, CSS, TypeScript
+Frameworks & Libraries:
+    React, Node.js, Express.js, Tailwind CSS, Bootstrap, Chart.js, EJS
+Database:
+    MongoDB
+DevOps & Tools:
+    AWS, Vercel, Cloudinary, Vite, Git, GitHub, Postman, JWT, NPM
+Main Projects
 SkillSwap
 A web project built with the MERN ecosystem.
-- GitHub: SkillSwap
+- GitHub: https://github.com/rinsha2387/SkillSwap
 - Live: skilltrade.store
 Connect
 - GitHub: @rinsha2387
