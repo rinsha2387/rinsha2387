@@ -100,14 +100,17 @@ A web project built with the MERN ecosystem.
 
 
 📫 Let's Connect
-<div align="center">
-
+<div >
+ <p>
 <a href="https://github.com/rinsha2387">
   <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+ </p>
+ <p>
 <a href="mailto:rinsha2387@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+ </p>
 
 
 
