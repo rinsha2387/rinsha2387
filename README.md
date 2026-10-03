@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./dark.svg" width="100%" alt="Fathima Rinsha — MERN Stack Developer">
+</p>
 <div align="center">
 
  Fathima Rinsha
