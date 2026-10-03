@@ -1,16 +1,31 @@
-## Hi there 👋
+Fathima Rinsha
+<p align="center">
+  <picture>
+    <img src="./dark.svg" alt="Fathima Rinsha — MERN Stack Developer">
+  </picture>
+</p>
 
-<!--
-**rinsha2387/rinsha2387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+👋 Hi, I'm Rinsha!
+💻 MERN Stack Developer passionate about building modern web applications.
+📚 Always learning and improving my development skills.
+💻 Building with React, Node.js, Express.js & MongoDB.
+🚀 Turning ideas into real-world projects.
+Current Focus
+- AI
+- MERN Stack
+- Full-Stack Development
+Tech Stack
+Languages: JavaScript, HTML, CSS, TypeScript
+Frameworks & Libraries: React, Node.js, Express.js, Tailwind CSS, Bootstrap, Chart.js, EJS
+Database: MongoDB
+DevOps & Tools: AWS, Vercel, Cloudinary, Vite, Git, GitHub, Postman, JWT, NPM
+Featured Project
+SkillSwap
+A web project built with the MERN ecosystem.
+- GitHub: SkillSwap
+- Live: skilltrade.store
+Connect
+- GitHub: @rinsha2387
+- Email: rinsha2387@gmail.com
+Building, learning, and turning ideas into real-world projects.
