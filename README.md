@@ -1,6 +1,6 @@
 <div align="center">
 
-✨ Fathima Rinsha
+ Fathima Rinsha
 MERN Stack Developer • AI Explorer • Full-Stack Builder
 <p>
   <img src="https://img.shields.io/badge/MERN-Stack-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack"/>
@@ -63,9 +63,12 @@ Database & Tools
 </p>
 
 Also working with: Cloudinary • JWT • Chart.js • EJS
-🌟 Featured Project
-<div align="center">
 
+
+
+🌟 Featured Project
+
+<div align="center">
 🔄 SkillSwap
 A web project built with the MERN ecosystem.
 <p>
@@ -76,7 +79,6 @@ A web project built with the MERN ecosystem.
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Project-22D3EE?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
-
 </div>
 
 📊 GitHub Activity
