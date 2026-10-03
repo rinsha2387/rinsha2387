@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
+     role="img" aria-label="Fathima Rinsha — MERN Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#041B16"/>
+      <stop offset="1" stop-color="#071F1A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10B981"/>
+      <stop offset="0.48" stop-color="#00F5A0"/>
+      <stop offset="1" stop-color="#00FFB3"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071A15" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#05140F" stop-opacity="0.82"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="tinyGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="portraitClip">
+      <rect x="45" y="115" width="390" height="385" rx="20"/>
+    </clipPath>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#14532D" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <!-- Outer shell -->
+  <rect x="8" y="8" width="1164" height="594" rx="26" fill="url(#bg)" stroke="#123C32" stroke-width="2"/>
+  <rect x="20" y="68" width="1140" height="522" rx="20" fill="url(#grid)" opacity="0.7"/>
+
+  <!-- Terminal bar -->
+  <rect x="8" y="8" width="1164" height="52" rx="26" fill="#020F0B"/>
+  <rect x="8" y="34" width="1164" height="26" fill="#020F0B"/>
+  <circle cx="36" cy="34" r="6.5" fill="#34D399"/>
+  <circle cx="58" cy="34" r="6.5" fill="#6EE7B7"/>
+  <circle cx="80" cy="34" r="6.5" fill="#A7F3D0"/>
+  <text x="106" y="39" fill="#A7F3D0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="14">rinsha@developer:~$ ./profile.sh</text>
+  <text x="1015" y="39" fill="#34D399"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10">ONLINE</text>
+  <circle cx="1088" cy="35" r="4" fill="#00FFB3" filter="url(#tinyGlow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="0" y="59" width="1180" height="2" fill="url(#neon)" filter="url(#tinyGlow)">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left identity / portrait -->
+  <rect x="32" y="82" width="408" height="492" rx="22" fill="url(#card)" stroke="#123C32"/>
+  <text x="54" y="111" fill="#00F5A0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11" letter-spacing="2.2">VISUAL.MAP</text>
+  <text x="358" y="111" fill="#34D399"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="9">PORTRAIT / 01</text>
+
+  <!-- Portrait frame -->
+  <rect x="45" y="115" width="390" height="385" rx="20" fill="#020F0B" stroke="#064E3B"/>
+  <g clip-path="url(#portraitClip)" opacity="0.98"
+     font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+     font-size="7.5" xml:space="preserve" fill="#D1D5DB">
+    <text y="0"><tspan x="58" dy="9"></tspan>
+<tspan x="58" dy="8.2"></tspan>
+<tspan x="58" dy="8.2">                       .  .</tspan>
+<tspan x="58" dy="8.2">                  .::·.:#%#:·..</tspan>
+<tspan x="58" dy="8.2">                 ·*+·.  ·*·.</tspan>
+<tspan x="58" dy="8.2">               ·:·     .+.</tspan>
+<tspan x="58" dy="8.2">              *:..     :+·</tspan>
+<tspan x="58" dy="8.2">            .@#·.   .·:*:.</tspan>
+<tspan x="58" dy="8.2">           .@@:  .:+###*++:.</tspan>
+<tspan x="58" dy="8.2">           @@.  +#%%%%%%##*:·</tspan>
+<tspan x="58" dy="8.2">          #@. .*@@@@%%%%%%#*++</tspan>
+<tspan x="58" dy="8.2">         :@: .+@@@@@@@@%%%%#+**</tspan>
+<tspan x="58" dy="8.2">         %# .*@%@@@@@@@%%%%#++#+</tspan>
+<tspan x="58" dy="8.2">        ·%·.*@@@@@@@@@@@%%%%*:*#:</tspan>
+<tspan x="58" dy="8.2">        :+.+@@@@@@@@@@@@@@@%#:+**.</tspan>
+<tspan x="58" dy="8.2">        ::·@@*+*#%@@@@@@@@@@%++#*+</tspan>
+<tspan x="58" dy="8.2">       .··:@+:·.··*%@@%%*+:::··**+.</tspan>
+<tspan x="58" dy="8.2">       :· %%****::*%@%#*+:·... .:+:</tspan>
+<tspan x="58" dy="8.2">       # :@*:+:···+%@@*+:::+*+:···:.</tspan>
+<tspan x="58" dy="8.2">      .% %@**#* .+*%@%*:::*:....:::·</tspan>
+<tspan x="58" dy="8.2">      :%.@@%%++++##@@%*++:#· .   :::</tspan>
+<tspan x="58" dy="8.2">      +#:@@@%##%%%@@@#**#*++::·:··*+.</tspan>
+<tspan x="58" dy="8.2">      +%+@@@@@@@@@@@@#**#%##****+·++.</tspan>
+<tspan x="58" dy="8.2">      +#*@@@@@%%@@@@%#**#@@@%%##*+·:.</tspan>
+<tspan x="58" dy="8.2">      :+*@@@@%%@#+*+·+#+*%@@@%##*+:.</tspan>
+<tspan x="58" dy="8.2">      .+:@@%%%@@%##*+::*%%@@%%#*++:</tspan>
+<tspan x="58" dy="8.2">       *:@@##@@%########%%#%#**++:.</tspan>
+<tspan x="58" dy="8.2">       +:@@%#*:++:::·::+******++::</tspan>
+<tspan x="58" dy="8.2">       #:%@@****#***+:··.:+***++:·</tspan>
+<tspan x="58" dy="8.2">       %:+@@*%%#*++++++++++**+++:·</tspan>
+<tspan x="58" dy="8.2">       %* @@%%###**+++++++++++++:.</tspan>
+<tspan x="58" dy="8.2">       ## :@@@@@@@@%#**++++++++:·</tspan>
+<tspan x="58" dy="8.2">       *#· :@@@@@@@%#**++++++::·</tspan>
+<tspan x="58" dy="8.2">       **:  .#@%##%#*+++:::::·.</tspan>
+<tspan x="58" dy="8.2">       ++:.   .++:++:::····..</tspan>
+<tspan x="58" dy="8.2">       ++.·     ····......</tspan>
+<tspan x="58" dy="8.2">       ·* ·     ·:::··.......</tspan>
+<tspan x="58" dy="8.2">       .# ..    .·++++::····.</tspan>
+<tspan x="58" dy="8.2">       .%  ·     ·:+**++++::.</tspan>
+<tspan x="58" dy="8.2">       ·%  ·.    .·:+++++++:</tspan>
+<tspan x="58" dy="8.2">       ·%·  ·     .:+****++·</tspan>
+<tspan x="58" dy="8.2">       :%:  .     .·+***+++</tspan>
+<tspan x="58" dy="8.2">       +#+   .     .:+++++·</tspan>
+<tspan x="58" dy="8.2">       **:·   .     .·::::</tspan>
+<tspan x="58" dy="8.2">       #+ +    .    .··::·</tspan>
+<tspan x="58" dy="8.2">       %: :·         .·::.</tspan>
+<tspan x="58" dy="8.2">       %+  +           ..</tspan>
+<tspan x="58" dy="8.2">     .+@·  ··</tspan>
+<tspan x="58" dy="8.2">  .:*++%.   ·</tspan>
+<tspan x="58" dy="8.2">+*#+· ·%.    .</tspan>
+<tspan x="58" dy="8.2">#+.   +%.</tspan>
+<tspan x="58" dy="8.2">·     *%             ..</tspan>
+<tspan x="58" dy="8.2">      %*.          ..</tspan>
+<tspan x="58" dy="8.2">      *+.··.    ..</tspan>
+<tspan x="58" dy="8.2">      +···   .::.</tspan>
+<tspan x="58" dy="8.2">      :#*   .··</tspan>
+<tspan x="58" dy="8.2">       ##·.</tspan>
+<tspan x="58" dy="8.2">       :+</tspan></text>
+  </g>
+
+  <!-- portrait scan -->
+  <rect x="45" y="115" width="390" height="2" fill="#00F5A0" opacity="0.0">
+    <animate attributeName="y" from="115" to="498" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.45;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="54" y1="518" x2="418" y2="518" stroke="#123C32"/>
+  <text x="54" y="545" fill="#ECFDF5"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="22" font-weight="700">FATHIMA RINSHA</text>
+  <text x="54" y="566" fill="#00F5A0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11">MERN STACK DEVELOPER</text>
+
+  <!-- Right system panel -->
+  <rect x="462" y="82" width="686" height="492" rx="22" fill="url(#card)" stroke="#123C32"/>
+  <text x="492" y="113" fill="#00F5A0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11" letter-spacing="2.2">SYSTEM.INFO</text>
+  <text x="1014" y="113" fill="#34D399"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="9">BUILD / 2026</text>
+
+  <text x="492" y="147" fill="#6EE7B7"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11">user@developer:~$ whoami</text>
+  <text x="492" y="184" fill="#ECFDF5"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="29" font-weight="700">Fathima Rinsha</text>
+  <text x="492" y="211" fill="#00FFB3"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="13">MERN Stack Developer</text>
+
+  <!-- Info chips -->
+  <rect x="492" y="232" width="178" height="38" rx="19" fill="#111C31" stroke="#064E3B"/>
+  <circle cx="512" cy="251" r="5" fill="#00FFB3"/>
+  <text x="527" y="255" fill="#D1FAE5"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10">Malappuram, Kerala</text>
+
+  <rect x="682" y="232" width="204" height="38" rx="19" fill="#111C31" stroke="#064E3B"/>
+  <text x="700" y="255" fill="#00F5A0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10">AI • MERN • FULL STACK</text>
+
+  <line x1="492" y1="292" x2="1118" y2="292" stroke="#123C32"/>
+
+  <!-- Focus -->
+  <text x="492" y="320" fill="#00FFB3"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11" letter-spacing="1.5">CURRENT.FOCUS</text>
+  <text x="492" y="345" fill="#D1FAE5"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="12">Building modern web applications and exploring AI.</text>
+
+  <!-- Stack heading -->
+  <text x="492" y="382" fill="#00FFB3"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11" letter-spacing="1.5">ENGINEERING.STACK</text>
+
+  <!-- Stack pills -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">
+    <g fill="#D1FAE5">
+      <rect x="492" y="397" width="76" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="509" y="415">React</text>
+      <rect x="576" y="397" width="84" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="591" y="415">Node.js</text>
+      <rect x="668" y="397" width="86" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="684" y="415">Express</text>
+      <rect x="762" y="397" width="92" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="778" y="415">MongoDB</text>
+      <rect x="862" y="397" width="96" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="878" y="415">TypeScript</text>
+      <rect x="966" y="397" width="82" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="982" y="415">Tailwind</text>
+      <rect x="1056" y="397" width="62" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="1072" y="415">AWS</text>
+
+      <rect x="492" y="433" width="92" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="508" y="451">Bootstrap</text>
+      <rect x="592" y="433" width="78" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="608" y="451">Chart.js</text>
+      <rect x="678" y="433" width="68" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="695" y="451">Vite</text>
+      <rect x="754" y="433" width="58" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="772" y="451">Git</text>
+      <rect x="820" y="433" width="72" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="835" y="451">GitHub</text>
+      <rect x="900" y="433" width="76" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="915" y="451">Postman</text>
+      <rect x="984" y="433" width="58" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="1000" y="451">JWT</text>
+      <rect x="1050" y="433" width="60" height="28" rx="14" fill="#111C31" stroke="#14532D"/><text x="1067" y="451">NPM</text>
+    </g>
+  </g>
+
+  <!-- Contact footer -->
+  <line x1="492" y1="482" x2="1118" y2="482" stroke="#123C32"/>
+  <text x="492" y="510" fill="#6EE7B7"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10">CONTACT</text>
+  <text x="492" y="535" fill="#00F5A0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="11">github.com/rinsha2387</text>
+  <text x="492" y="556" fill="#A7F3D0"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10">rinsha2387@gmail.com</text>
+
+  <!-- Cursor -->
+  <rect x="1108" y="527" width="7" height="13" rx="1" fill="#00FFB3">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle ambient scanline -->
+  <rect x="22" y="70" width="1136" height="1" fill="#00F5A0" opacity="0">
+    <animate attributeName="y" from="70" to="588" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.16;0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
