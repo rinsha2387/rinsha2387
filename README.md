@@ -95,7 +95,7 @@ A web project built with the MERN ecosystem.
 </div>
 
 📫 Let's Connect
-<div align="center">
+<div >
 
 <p>
   <a href="https://github.com/rinsha2387">
