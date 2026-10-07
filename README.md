@@ -82,17 +82,29 @@ A web project built with the MERN ecosystem.
 </p>
 
 📊 GitHub Activity
+
 <div align="center">
 
 <a href="https://github.com/rinsha2387">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rinsha2387&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00C896&text_color=94A3B8" alt="GitHub Stats"/>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=rinsha2387&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00C896&text_color=94A3B8&rank_icon=github"
+       alt="Rinsha's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/rinsha2387">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsha2387&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=94A3B8" alt="Top Languages"/>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsha2387&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=94A3B8&langs_count=8"
+       alt="Top Languages"/>
 </a>
 
-</div>
+<br><br>
+
+<a href="https://github.com/rinsha2387">
+  <img src="https://streak-stats.demolab.com/?user=rinsha2387&hide_border=true&background=00000000&ring=00FF9C&fire=00C896&currStreakLabel=00FF9C&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
+       alt="GitHub Streak"/>
+</a>
+
+</div
 
 📫 Let's Connect
 <div >
