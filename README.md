@@ -118,6 +118,4 @@ A web project built with the MERN ecosystem.
   </a>
 </p>
 
-💚 Building. Learning. Improving. 🚀
-<sub>Made with curiosity, code & continuous learning.</sub>
-</div>
+💚 Building. Learning. Improving. 
